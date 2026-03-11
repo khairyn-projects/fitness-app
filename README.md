@@ -35,4 +35,7 @@ The app encourages healthier lifestyles by providing progress tracking, goal set
 ### Sprint 3: Testing & Evaluation 
 - User feedback collection
 - Prototype refinement 
-- Final prototype evaluation 
+
+### Sprint 4: Deployment & Presentation 
+- Finalise prototype
+- Presentation of prototype 

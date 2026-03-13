@@ -61,5 +61,3 @@ User testing was conducted to evaluate the usability and functionality of the Fi
 
 ---
 
-## Conclusion
-The testing results show that the prototype is easy to use and the core features are functioning well. Testers generally found the system intuitive and helpful for tracking fitness activities. Minor improvements such as visual enhancements and additional motivational features may further improve the user experience.

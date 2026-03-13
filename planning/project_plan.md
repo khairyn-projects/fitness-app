@@ -1,3 +1,24 @@
+# SDLC Overview 
+
+### Sprint 1: Planning 
+- Requirements gathering 
+- User stories collecting
+- Trello board set-up 
+- Project planning documentation
+
+### Sprint 2: Design 
+- Wireframes + UI design 
+- UML diagrams (Use Case Diagrams)
+- Prototype development 
+
+### Sprint 3: Testing & Evaluation 
+- User feedback collection
+- Prototype refinement 
+
+### Sprint 4: Deployment & Presentation 
+- Finalise prototype
+- Presentation of prototype 
+
 # Agile Process / Trello Usage 
 - Trello was the main tool used to track our project’s progress.
 - To keep things neat, we utilised two Trello boards to track the project’s progression.
